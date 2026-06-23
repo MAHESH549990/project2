@@ -1,4 +1,1 @@
-// THi is my js file
-a=10;
-b=30;
-console.log(a+b);
+// THi is my js file-hello bro how are you-my name is mahesh bhatt
